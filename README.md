@@ -27,7 +27,7 @@
 You can download our project by using the green "Code" button.
 
 An alternative way is to paste the following code in your CMD:
-git clone REPO-LINK
+git clone https://github.com/codingburgas/sprint-math-games-9th-grade-cypher-peak
 ```
 ## 🔑 Application Access
 
@@ -41,7 +41,7 @@ git clone REPO-LINK
 **Open CMD and clone our repo by typing:**
 
 ```
-git clone .
+git clone https://github.com/codingburgas/sprint-math-games-9th-grade-cypher-peak
 ```
  
 <p align="center">
