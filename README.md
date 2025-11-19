@@ -45,5 +45,5 @@ git clone .
 ```
  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=2,3,12,19,21,23,26" width="1200px"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=2,4,26,19,26" width="1200px"/>
 </p>
