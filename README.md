@@ -45,5 +45,5 @@ git clone https://github.com/codingburgas/sprint-math-games-9th-grade-cypher-pea
 ```
  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=2,4,26,19,26" width="1200px"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=4" width="1200px"/>
 </p>
