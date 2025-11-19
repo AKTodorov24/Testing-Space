@@ -2,9 +2,9 @@
 <br>
 
 <p align = "center">
-    <img alt="GitHub top language" src ="https://img.shields.io/github/languages/top/ZYPetkova20/Neos?style=for-the-badge">
-    <img alt="Github languages count" src="https://img.shields.io/github/languages/count/ZYPetkova20/Neos?style=for-the-badge">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ZYPetkova20/Neos?style=for-the-badge">
+  <img src = "https://img.shields.io/github/contributors/codingburgas/sprint-math-games-9th-grade-cypher-peak?style=for-the-badge">
+  <img src = "https://img.shields.io/github/repo-size/codingburgas/sprint-math-games-9th-grade-cypher-peak?style=for-the-badge">
+  <img src = "https://img.shields.io/github/last-commit/codingburgas/sprint-math-games-9th-grade-cypher-peak?style=for-the-badge">
 </p>
 <br>
 
@@ -27,14 +27,14 @@ git clone REPO-LINK
 ```
 ## 🔑 Application Access
 
-*You can access our program by:*
+**You can access our program by:**
 <ol>
     <li>Downloading it from our site link to site</li>
-    <li>Downloading it from github release</li>
-    <li>Or you can run the code on your local device using the following Command Prompt command:</li>
+    <li>Downloading it from Github release</li>
+    <li>Running the code on your local device using the following Command Prompt command:</li>
 </ol>
 
-*Open cmd and clone our repo by typing:*
+**Open CMD and clone our repo by typing:**
 
 ```
 git clone .
