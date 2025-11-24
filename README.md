@@ -30,7 +30,7 @@
 # 🏆 Our Team
 <h3 align=""><big><a href="https://github.com/AKTodorov24">Atanas Todorov</a>  - Scrum Trainer</big></h3>
 <h3 align=""><big><a href="https://github.com/BSAndrikov24">Borislav Andrikov</a>  - Front-End Developer</big></h3>
-<h3 align=""><big><a href="https://github.com/GIDinkov24">Georgi Dinkov</a>  - Game Designer</big></h3>
+<h3 align=""><big><a href="https://github.com/GIDinkov24">Georgi Dinkov</a>  - Back-End Developer</big></h3>
 <h3 align=""><big><a href="https://github.com/TatianaKovacheva">Tatiana Kovacheva</a> - Back-End Developer</big></h3>
 <hr>
 <br>
