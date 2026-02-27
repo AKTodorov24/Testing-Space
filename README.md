@@ -1,13 +1,13 @@
 <p align = "center">
-  <img src="https://i.imgur.com/E3J8Z1x.png" width="720" text-align="center">
+  <img src="https://i.imgur.com/E3J8Z1x.png" width="650" text-align="center">
 </p>
 
 <hr>
 
 <p align = "center">
-  <img src = "https://img.shields.io/github/contributors/codingburgas/sprint-math-games-9th-grade-cypher-peak?style=for-the-badge">
-  <img src = "https://img.shields.io/github/repo-size/codingburgas/sprint-math-games-9th-grade-cypher-peak?style=for-the-badge">
-  <img src = "https://img.shields.io/github/last-commit/codingburgas/sprint-math-games-9th-grade-cypher-peak?style=for-the-badge">
+  <img src = "https://img.shields.io/github/contributors/AKTodorov24/sprint-math-games-9th-grade-edu-sphere?style=for-the-badge">
+  <img src = "https://img.shields.io/github/repo-size/AKTodorov24/sprint-math-games-9th-grade-edu-sphere?style=for-the-badge">
+  <img src = "https://img.shields.io/github/last-commit/AKTodorov24/sprint-math-games-9th-grade-edu-sphere?style=for-the-badge">
 </p>
 <br>
 
@@ -29,9 +29,9 @@
 
 # 🏆 Our Team
 <h3 align=""><big><a href="https://github.com/AKTodorov24">Atanas Todorov</a>  - Scrum Trainer</big></h3>
-<h3 align=""><big><a href="https://github.com/BSAndrikov24">Borislav Andrikov</a>  - Front-End Developer</big></h3>
-<h3 align=""><big><a href="https://github.com/GIDinkov24">Georgi Dinkov</a>  - Back-End Developer</big></h3>
-<h3 align=""><big><a href="https://github.com/TatianaKovacheva">Tatiana Kovacheva</a> - Back-End Developer</big></h3>
+<h3 align=""><big><a href="https://github.com/DimitarYanakiev">Dimitar Yanakiev</a>  - Back-End Developer</big></h3>
+<h3 align=""><big><a href="https://github.com/SISavakov24">Stoqn Savakov</a> - Back-End Developer</big></h3>
+<h3 align=""><big><a href="https://github.com/GIDinkov24">Georgi Dinkov</a>  - Quality Engineer</big></h3>
 <hr>
 <br>
 
