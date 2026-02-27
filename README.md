@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="https://i.imgur.com/tJKhVHj.png" width="720" text-align="center">
+  <img src="https://i.imgur.com/E3J8Z1x.png" width="720" text-align="center">
 </p>
 
 <hr>
@@ -13,7 +13,7 @@
 
 # 🚀 Application Tech Stack 
   <p align="left"> 
-    <a href="https://www.microsoft.com/en-us/microsoft-teams/download-app"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Microsoft_Office_Teams_%282019%E2%80%932025%29.svg/2203px-Microsoft_Office_Teams_%282019%E2%80%932025%29.svg.png" alt="MS Teams" width=48px /></a>
+    <a href="https://www.microsoft.com/en-us/microsoft-teams/download-app"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Microsoft_Office_Teams_%282025%E2%80%93present%29.svg/1280px-Microsoft_Office_Teams_%282025%E2%80%93present%29.svg.png" alt="MS Teams" width=48px /></a>
     <a href="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/fluency/48/000000/visual-studio.png" alt="Visual Studio 2019"/></a>
     <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/51/null/visual-studio-code-2019.png"/></a>
     <a href="https://www.microsoft.com/en-ww/microsoft-365/word"><img src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png" alt="MS Word logo" width=48px /></a>
@@ -23,8 +23,8 @@
 <br>
       
 # 📄 Documentation
-<h3> ➤ <a href="https://github.com/codingburgas/Control-Break/blob/main/Documentation/Documentation.docx">Documentation</a><img src="https://cdn.worldvectorlogo.com/logos/word-1.svg" alt="Word" width="30" height="20"/> </h3>
-<h3> ➤ <a href="https://github.com/codingburgas/Control-Break/blob/main/Documentation/Presentation.pptx">Presentation </a><img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" alt="PowerPoint" width="30" height="20"/> </h3>
+<h3> ➤ <a href="https://github.com/codingburgas/CHANGE">Documentation</a><img src="https://cdn.worldvectorlogo.com/logos/word-1.svg" alt="Word" width="30" height="20"/> </h3>
+<h3> ➤ <a href="https://github.com/codingburgas/CHANGE">Presentation </a><img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" alt="PowerPoint" width="30" height="20"/> </h3>
 <br>
 
 # 🏆 Our Team
@@ -39,8 +39,8 @@
 
 **You can access our program by:**
 <ol>
-    <li>Downloading it from our site link to site</li>
-    <li>Downloading it from Github release</li>
+    <li>Downloading it from our site link to your folder</li>
+    <li>Downloading it from Github Eelease</li>
     <li>Running the code on your local device using the following Command Prompt command:</li>
 </ol>
 
