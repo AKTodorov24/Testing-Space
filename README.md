@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Replace the src with Resources/logo.png once a real logo exists. -->
-<img src="https://placehold.co/180x180/1f2937/f59e0b?text=DataForge&font=montserrat" alt="DataForge Logo" width="180" />
-
-# DataForge
+<img src="https://i.imgur.com/kIk8K5W.png" alt="DataForge Logo" width="700" />
 
 **Forge your workflow - a native Windows task manager with hierarchical tasks, hand-rolled algorithms, and a Dear ImGui interface.**
 
