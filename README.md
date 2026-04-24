@@ -189,7 +189,7 @@ DataForge/
 ## 🙏 Acknowledgements
 
 - **[Dear ImGui](https://github.com/ocornut/imgui)** by Omar Cornut — the immediate-mode GUI library at the heart of DataForge.
-- **[Shields.io](https://shields.io/)** — for the badges above.
+- **[Shields.io](https://shields.io/)** — for all tech badges above.
 - **[Placehold.co](https://placehold.co/)** — placeholder imagery during early development.
 - **Microsoft Visual Studio & the Windows SDK** — the C++20 toolchain and D3D11 backend.
 - Every author of the classic algorithms textbooks whose Bubble Sort, Quick Sort, and Binary Search we re-implement by hand in this repository.
@@ -198,7 +198,6 @@ DataForge/
 
 <div align="center">
 
-*Forged with C++20 and Dear ImGui on the Windows desktop.*
+*Forged with C++20 and much ❤️ for the Windows desktop.*
 
 </div>
-ivobarbershopgrudovoBG!
