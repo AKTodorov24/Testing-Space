@@ -179,11 +179,11 @@ DataForge/
 
 | Name | Role |
 |---|---|
-| **Atanas Todorov** | Project Lead & Architecture |
-| **Name Placeholder 2** | Logic Layer & Algorithms |
-| **Name Placeholder 3** | Presentation Layer & Dear ImGui |
-| **Name Placeholder 4** | Data Layer & Persistence |
-| **Name Placeholder 5** | QA & Documentation |
+| **Atanas Todorov** | Scrum Trainer & Project Lead  |
+| **Dimitar Yanakiev** | Back-End Developer |
+| **Georgi Dinkov** | Back-End Developer |
+| **Stoqn Savakov** | QA Engineer |
+| **Dimitar Dimitrov** | QA & F-E Developer |
 
 ---
 ## 🙏 Acknowledgements
